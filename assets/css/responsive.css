@@ -1,0 +1,216 @@
+@media (max-width: 350px) {
+    .lead-form-lead-point {
+        display: block !important;
+        text-align: center;
+    }
+
+    .programme_card h4 {
+        font-size: 14px !important;
+        font-weight: 600;
+    }
+
+    label#contactno-error {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 768px) {
+    .headingbox p {
+        font-size: 14px;
+    }
+
+    .fs-14 {
+        font-size: 14px !important;
+    }
+
+    .logo img {
+        width: 100px;
+    }
+
+    .logo div.text-dark {
+        font-size: 12px !important;
+    }
+
+    .button_main {
+        font-size: 14px;
+    }
+
+    .banner-content h1 {
+        font-size: 1.7rem;
+        text-align: center;
+    }
+
+    .banner-content p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .programme_card h4 {
+        font-size: 19px;
+    }
+
+    .common_form p small {
+        display: none;
+    }
+
+    .common_form p {
+        display: 14px;
+    }
+
+    button.btn.button_main.clickPop i {
+        font-size: 14px;
+    }
+
+    .seciton_padding {
+        padding: 30px 0;
+    }
+
+    .reason_card {
+        width: 100%;
+        margin-bottom: 30px;
+        padding: 20px 15px 0px;
+    }
+
+    .certificate_sec {
+        font-size: 19px;
+        margin-top: 20px;
+    }
+
+    .headingbox {
+        margin-bottom: 35px;
+    }
+
+    ul.certificat_list {
+        margin-left: 0;
+        padding-left: 18px;
+    }
+
+    .special_text,
+    .special_icon {
+        font-size: 13px;
+    }
+
+    .steps_process {
+        flex-direction: column;
+    }
+
+    .steps_card {
+        width: 100%;
+    }
+
+    footer {
+        font-size: 12px;
+    }
+
+    .ourLearner .item img {
+        width: 100%;
+    }
+
+    .ourLearner .item {
+        height: 60px;
+        padding: 8px;
+    }
+
+    button.button_main.btn i {
+        font-size: 23px;
+        padding-right: 6px;
+    }
+
+    .common_form form {
+        padding: 0px 15px 25px;
+    }
+
+    .programme_bgimg {
+        display: none;
+    }
+
+    section.specialization_sec {
+        padding-top: 35px;
+    }
+
+    /* =========responsive new======== */
+    .banner_tnq {
+        width: 100%;
+    }
+
+    .banner_tnq h1 {
+        font-size: 27px;
+        font-weight: 600 !important;
+    }
+
+    .banner_tnq p {
+        font-size: 18px;
+        margin: 0;
+    }
+
+    h3 {
+        font-size: 23px;
+    }
+
+    h2 {
+        font-size: 21px;
+    }
+
+    .testimonial-card {
+        margin-bottom: 30px;
+    }
+
+    .testi_img {
+        height: 250px;
+    }
+
+    .testimonial-sec .h-100 {
+        height: auto !important;
+    }
+
+    .testimonial-sec .modal.show {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .banner_tnq {
+        transform: translate(-50%, -25%);
+    }
+
+    section.banner-thanku {
+        height: 200px;
+    }
+
+    .courseList span {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 912px) {
+
+    .common_formDiv {
+        width: 100% !important;
+    }
+
+    .banner-content h1 {
+        font-size: 22px;
+    }
+
+    .courseList {
+        line-height: 30px;
+    }
+
+    formIMGDiv {
+        display: none;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 1024px) {
+
+    .container,
+    .container-sm {
+        max-width: 95%;
+    }
+}
+
+@media (min-width: 540px) and (max-width: 710px) {
+    .ReasonCardDiv {
+        width: 50%;
+    }
+}
